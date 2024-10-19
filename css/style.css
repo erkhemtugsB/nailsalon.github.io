@@ -7195,13 +7195,13 @@ html.tablet .ui-to-top {
 .rd-navbar-fixed .rd-navbar-panel {
 	color: #151515;
 	box-shadow: none;
-	background: #ffffff;
+	background: #fff0ef;
 	border-bottom: 1px solid #eaeced;
 }
 
 .rd-navbar-fixed .rd-navbar-nav-wrap {
 	color: #ffffff;
-	background: #ffffff;
+	background: #fff0ef;
 	border: 1px solid #eaeced;
 	box-shadow: none;
 }
@@ -7345,7 +7345,7 @@ html.rd-navbar-fixed-linked .page {
 	display: flex;
 	align-items: center;
 	justify-content: flex-end;
-	color: #ffffff;
+	color: #fff0ef;
 	width: 110px;
 	height: 24px;
 	line-height: 24px;
