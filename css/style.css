@@ -4905,6 +4905,7 @@ h3 + img {
 
 .row-50 {
 	margin-bottom: -50px;
+	justify-content: space-between
 }
 
 .row-50:empty {
@@ -6222,7 +6223,7 @@ html.tablet .ui-to-top {
 
 .rd-navbar {
 	display: none;
-	background: #ffffff;
+	background: #fff0ef;
 }
 
 .rd-navbar-toggle {
