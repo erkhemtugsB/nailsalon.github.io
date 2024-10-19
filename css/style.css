@@ -1401,7 +1401,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .box-service-modern .box-icon-classic .icon-classic {
-	background: #f6f6f6;
+	background: #fff0ef;
 }
 
 .box-service-modern .box-icon-classic-vertical .icon-classic-body {
@@ -4415,7 +4415,7 @@ textarea.form-input {
 */
 .footer-classic {
 	padding: 30px 0;
-	background: #f6f6f6;
+	background: #fff0ef;
 }
 
 .footer-minimal {
@@ -5426,7 +5426,7 @@ html [class*='section-'].section-bottom-0 {
 }
 
 .bg-gray-100 {
-	background-color: #f6f6f6;
+	background-color: #fff0ef;
 }
 
 .bg-gray-100 + .bg-gray-100 {
