@@ -8789,6 +8789,12 @@ html.rd-navbar-fixed-linked .page {
 	}
 }
 
+@media (max-width: 768px) {
+	.slider-img-block img {
+	  top: 20px; /* Adjust this value to move the image down on small screens */
+	}
+  }
+
 /*
 *
 * RD Google Map
