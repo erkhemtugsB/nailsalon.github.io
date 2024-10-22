@@ -8788,12 +8788,18 @@ html.rd-navbar-fixed-linked .page {
 		left: auto;
 	}
 }
-
-/* @media (max-width: 768px) {
+@media (max-width: 440px) {
 	.slider-img-block img {
-	  top: 30px; /* Adjust this value to move the image down on small screens */
+	  top: 40px; /* Adjust this value to move the image down on small screens */
 	}
-  } */
+  }
+
+  @media (max-width: 768px) {
+	.slider-img-block img {
+	  top: 20px; /* Adjust this value to move the image down on small screens */
+	}
+  }
+
 
 /*
 *
